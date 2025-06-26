@@ -4,4 +4,4 @@ Fui contratado como cientista de dados de uma empresa imobiliária. Minha princi
 
 Para atender essas demandas, foi-me disponibilizado um board no Trello com as etapas e tarefas do projeto que devo realizar. Também foi-me disponibilizada uma base de dados que utilizarei para desenvolver o projeto.
 
-Todos as requisições feitas pelos times de Machine Learning e Development foram explicitadas no notebook. As realizações delas tambeḿ foram feitas lá.
+Todos as requisições feitas pelos times de Machine Learning e Development foram explicitadas no notebook. As realizações das tarefas também foram feitas lá.
